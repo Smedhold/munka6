@@ -11,6 +11,9 @@ namespace munka6
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD");
+
+            Console.WriteLine("asd");
+
             Console.ReadKey();
         }
     }
